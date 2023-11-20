@@ -1,0 +1,73 @@
+html {
+  background-color: #fff;
+}
+.login {
+  background-color: #fff;
+}
+.login .van-nav-bar__text {
+  color: #0c34ba;
+  font-weight: 700;
+  font-size: 0.37333rem;
+}
+.login .logo {
+  display: flex;
+  align-items: center;
+}
+.login .logo .auto_img {
+  width: 0.96rem;
+  height: 0.96rem;
+  border-radius: 50%;
+  overflow: hidden;
+}
+.login .logo .logo-text {
+  margin-left: 0.26667rem;
+  font-weight: 700;
+  font-size: 0.37333rem;
+}
+.login .login-box {
+  margin-top: 2.13333rem;
+  padding: 0.26667rem;
+}
+.login .welcome {
+  font-size: 0.8rem;
+}
+.login .welcome-en {
+  font-size: 0.48rem;
+  margin-top: 0.53333rem;
+  color: #999;
+}
+.login .form-box {
+  margin-top: 1.33333rem;
+}
+.login .forgot {
+  margin-top: 0.53333rem;
+  display: flex;
+}
+.login .forgot .forgot-pwd {
+  margin-left: auto;
+  font-size: 0.37333rem;
+  color: #666;
+}
+.login .login-btn {
+  margin-top: 1.33333rem;
+}
+.login .login-btn .v-login {
+  color: white;
+  background: #0c34ba;
+  border-color: #0c34ba;
+}
+.login .login-btn .v-register {
+  color: black;
+  background-color: #fff;
+  border-color: #f4f5f7;
+}
+.register-box .register-title {
+  font-size: 0.64rem;
+  padding: 0.26667rem;
+}
+.register-box .v-login {
+  margin-top: 1.33333rem;
+  color: white;
+  background: #0c34ba;
+  border-color: #0c34ba;
+}
